@@ -1,4 +1,4 @@
-# crystals-of-the-gods
+# Quest for Talthiumn
 Platformer game code written in melonjs, for a web game project
 the game will have 4 worlds 
 (castle world) knights of the white rose tasked with protecting justice and peace
